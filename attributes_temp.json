@@ -1,0 +1,174 @@
+[
+    {
+        "AlphabetSoup": [
+            "can",
+            "blue"
+        ]
+    },
+    {
+        "BBQSause": [
+            "condiment",
+            "red"
+        ]
+    },
+    {
+        "Butter": [
+            "box",
+            "red"
+        ]
+    },
+    {
+        "Cherries": [
+            "can",
+            "purple"
+        ]
+    },
+    {
+        "ChocolatePudding": [
+            "box",
+            "brown",
+            "skyblue"
+        ]
+    },
+    {
+        "Cookies": [
+            "box",
+            "red"
+        ]
+    },
+    {
+        "Corn": [
+            "can",
+            "yellow"
+        ]
+    },
+    {
+        "CreamCheese": [
+            "box",
+            "skyblue"
+        ]
+    },
+    {
+        "GranolaBars": [
+            "box",
+            "yellow"
+        ]
+    },
+    {
+        "GreenBeans": [
+            "can",
+            "green"
+        ]
+    },
+    {
+        "Ketchup": [
+            "condiment",
+            "red"
+        ]
+    },
+    {
+        "MacaroniAndCheese": [
+            "box",
+            "red"
+        ]
+    },
+    {
+        "Mayo": [
+            "condiment",
+            "white"
+        ]
+    },
+    {
+        "Milk": [
+            "box",
+            "red"
+        ]
+    },
+    {
+        "Mushroom": [
+            "can",
+            "purple"
+        ]
+    },
+    {
+        "Mustard": [
+            "condiment",
+            "yellow"
+        ]
+    },
+    {
+        "OrangeJuice": [
+            "box",
+            "orange"
+        ]
+    },
+    {
+        "Parmesan": [
+            "can",
+            "grean"
+        ]
+    },
+    {
+        "Peaches": [
+            "can",
+            "red"
+        ]
+    },
+    {
+        "PeasAndCarrots": [
+            "can",
+            "green"
+        ]
+    },
+    {
+        "Pineapple": [
+            "can",
+            "skyblue"
+        ]
+    },
+    {
+        "Popcorn": [
+            "box",
+            "blue"
+        ]
+    },
+    {
+        "Raisins": [
+            "box",
+            "red"
+        ]
+    },
+    {
+        "SaladDressing": [
+            "condiment",
+            "white"
+        ]
+    },
+    {
+        "Spaghetti": [
+            "box",
+            "green",
+            "red"
+        ]
+    },
+    {
+        "TomatoSauce": [
+            "condiment"
+        ]
+    },
+    {
+        "Tuna": [
+            "can",
+            "skyblue"
+        ]
+    },
+    {
+        "Yogurt": [
+            "cup",
+            "red"
+        ]
+    },
+    {
+        "table": []
+    }
+]
